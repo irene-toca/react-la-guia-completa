@@ -1,4 +1,4 @@
-// variables - let const
+// variables - let 
 
 let cliente = "Juan"
 let precioDescuento = 220
